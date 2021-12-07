@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042676800983",
+    "project_id": "uas-cstudio-myhabits",
+    "storage_bucket": "uas-cstudio-myhabits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042676800983:android:1d921c2c7dae0dfd637f92",
+        "android_client_info": {
+          "package_name": "id.ac.umn.jonathanchristian.uas_cstudio_myhabits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042676800983-vqho225jbqevi1hmbidtr5ioi5mvei7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ULN4SLLXCjdMRuuSQU55inGDw6gsC2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042676800983-vqho225jbqevi1hmbidtr5ioi5mvei7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
