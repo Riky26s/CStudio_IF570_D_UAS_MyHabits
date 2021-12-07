@@ -1,4 +1,4 @@
-# # IF570D_Cstudio_MyHabits
+# IF570D_Cstudio_MyHabits
 Anggota Kelompok :
 1. Benny Septiawan Salim – 00000034748
 2. Gunakaro Kenneth – 00000034466
@@ -36,3 +36,5 @@ profile untuk mengganti foto profile anda, dan menu log out untuk keluar dari ak
 8. pada menu edit profile, cukup klik pada foto dan lakukan pemilihan foto dari dalam galeri smartphone anda.
 setelah memilih harap langsung menekan tombol save picture. (foto profil akan berganti setelah anda melakukan
 penekanan tombol save picture sesaat setelah anda memilih foto dari galeri.)
+
+9. Apabila data pada recyclerview diklik tahan selama kurang lebih 2 detik, maka akan diarahkan ke edit data habit.
